@@ -47,4 +47,6 @@ public class StudentAdapter extends BaseAdapter {
         name.setText(contacttList.get(i).getName());
         return view;
     }
+
+
 }
